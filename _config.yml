@@ -52,7 +52,7 @@ publication_title: Publication
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: hansolyoon/resume-theme
 
 sass:
   sass_dir: _sass
