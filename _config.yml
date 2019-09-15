@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 # Personal info
 name: Hansol Yoon
 title: PhD student, University of Colorado Boulder
-email: hansol.yoon@colorado.edu
+email: hansol.yoon at colorado dot edu
 # website: www.github.com/sproogen/resume-theme
 
 # Social links
@@ -24,8 +24,9 @@ linkedin_username: hansol-yoon-a5a372b7
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student in the Computer Science department at the University of Colorado Boulder.
+  I am Hansol Yoon, a PhD student in Professor Sriram Sankaranarayanan's group and the Computer Science department at the University of Colorado Boulder.
 
+  I got my Masters degree from the University of Colorado Boulder in 2019 and received my Bachelors degree from Korea Air Force Academy in 2010.
 # Projects Section
 # projects_title: Projects
 
