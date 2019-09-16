@@ -24,11 +24,13 @@ linkedin_username: hansol-yoon-a5a372b7
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor Sriram Sankaranarayanan's group and the Computer Science department at the University of Colorado Boulder.
-
-  I got my Masters degree from the University of Colorado Boulder in 2019 and received my Bachelors degree from Korea Air Force Academy in 2010.
-
+  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/)'s group and the Computer Science department at the University of Colorado Boulder.
+  Also, I am a Republic of Korea Air Force Captain(Major selected for promotion), had worked at the Avionics Software Development Center in Korea Air Force before coming to the US.
   My research focuses on run-time verification with applications in autonomous systems.
+  
+# I graduated with a MS degree from the University of Colorado Boulder in 2019 and received a BS from Korea Air Force Academy in 2010. 
+  MS, Computer Science, University of Colorado Boulder, 2019
+  BS, Computer Science, Korea Air Force Academy, 2010
 
   Here is my [CV](files/CV.pdf).
 # Projects Section
@@ -43,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  <u> Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan, **"Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs."** *In International Conference on Runtime Verification (RV), 2019*.
+  <u> Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan, **"Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs."** *International Conference on Runtime Verification (RV), 2019*.
 
 # Footer
 footer_show_references: false
