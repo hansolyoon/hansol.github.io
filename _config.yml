@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I got my Masters degree from the University of Colorado Boulder in 2019 and received my Bachelors degree from Korea Air Force Academy in 2010.
 
-  Here is my [CV](/_files/CV.pdf).
+  Here is my [CV](files/CV.pdf).
 # Projects Section
 # projects_title: Projects
 
@@ -39,16 +39,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  <u> Hansol Yoon </u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan, **"Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs."** *In International Conference on Runtime Verification (RV), 2019*.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
