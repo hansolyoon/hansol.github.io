@@ -28,12 +28,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/)'s group and the Computer Science department at the University of Colorado Boulder.
   Also, I am a Republic of Korea Air Force Captain(Major selected for promotion), had worked at the Avionics Software Development Center in Korea Air Force before coming to the US.
   My research focuses on run-time verification with applications in autonomous systems.
+  Here is my [CV](files/CV.pdf).
+  
   
   MS, Computer Science, University of Colorado Boulder, 2019
 
   BS, Computer Science, Korea Air Force Academy, 2010
 
-  Here is my [CV](files/CV.pdf).
+  
 # Projects Section
 # projects_title: Projects
 
