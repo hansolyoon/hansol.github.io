@@ -1,5 +1,5 @@
 # Site
-repository: hansolyoon/resume-theme
+repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -22,14 +22,15 @@ linkedin_username: hansol-yoon-a5a372b7
 
 # About Section
 # about_title: About Me
+# I graduated with a MS degree from the University of Colorado Boulder in 2019 and received a BS from Korea Air Force Academy in 2010. 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/)'s group and the Computer Science department at the University of Colorado Boulder.
   Also, I am a Republic of Korea Air Force Captain(Major selected for promotion), had worked at the Avionics Software Development Center in Korea Air Force before coming to the US.
   My research focuses on run-time verification with applications in autonomous systems.
   
-# I graduated with a MS degree from the University of Colorado Boulder in 2019 and received a BS from Korea Air Force Academy in 2010. 
   MS, Computer Science, University of Colorado Boulder, 2019
+
   BS, Computer Science, Korea Air Force Academy, 2010
 
   Here is my [CV](files/CV.pdf).
