@@ -1,32 +1,32 @@
 # Site
-repository: hansolyoon/resume-theme
+repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Hansol Yoon
-title: PhD student, University of Colorado Boulder
-email: hansol.yoon at colorado dot edu
-# website: www.github.com/sproogen/resume-theme
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Social links
-# twitter_username: facespics
-github_username: hansolyoon
+twitter_username: facespics
+github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: chillwildlife
-linkedin_username: hansol-yoon-a5a372b7
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor Sriram Sankaranarayanan's group and the Computer Science department at the University of Colorado Boulder.
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I got my Masters degree from the University of Colorado Boulder in 2019 and received my Bachelors degree from Korea Air Force Academy in 2010.
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: Publications
+# more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: hansolyoon/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
