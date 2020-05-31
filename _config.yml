@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  <u> Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan, 
+  <u> Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan,    
   **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs.** 
-  *International Conference on Runtime Verification (RV), 2019*. 
+  *International Conference on Runtime Verification (RV), 2019*.    
   [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
 
 # Footer
