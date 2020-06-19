@@ -1,6 +1,6 @@
 
 # Project template
-- layout: top-left #top-middle
+- layout: top-middle
   name: Semantic Anomaly Detection through Property Templates
   link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
