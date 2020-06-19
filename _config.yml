@@ -13,7 +13,7 @@ footer_text: >
 
 url: https://hansolyoon.github.io/ # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -36,36 +36,36 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: hansolyoon # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
+linkedin_username: hansol-yoon # your LinkedIn user name
+scholar_userid: ANpYU9oAAAAJ # your Google Scholar ID
+# orcid_id: # your ORCID ID
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# research_gate_profile: # your profile on ResearchGate
+# blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
+# # Blog
+# # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+# blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
+# # Comments
+# disqus_shortname: al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
