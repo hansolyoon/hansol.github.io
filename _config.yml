@@ -1,70 +1,131 @@
-# Site
-repository: hansolyoon/resume-theme
-# favicon: images/favicon.ico
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Your Name
+email: you@example.com
+description: > # this means to ignore newlines until "url:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-# Personal info
-name: Hansol Yoon
-title: PhD student, University of Colorado Boulder
-email: hansol.yoon at colorado dot edu
-# website: www.github.com/sproogen/resume-theme
+url:  # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
 
-# Social links
-# twitter_username: facespics
-github_username: hansolyoon
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
-linkedin_username: hansol-yoon
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
 
-# About Section
-# about_title: About Me
-# I graduated with a MS degree from the University of Colorado Boulder in 2019 and received a BS from Korea Air Force Academy in 2010. 
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder.
-  Also, I am a Republic of Korea Air Force Major, and I worked at the Avionics Software Development Center in the Korean Air Force before coming to the US.
-  
-  My research focuses on runtime verification with applications in autonomous systems.
-  
-  [[CV]](files/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
-  
-  **<u>Education</u>**
-  
-  MS, Computer Science, University of Colorado Boulder, 2019
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 
-  BS, Computer Science, Republic of Korea Air Force Academy, 2010
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-  
-# Projects Section
-# projects_title: Projects
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: al-folio
+blog_description: a simple whitespace theme for academics
 
-# Experience Section
-# experience_title: Experience
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-# Education Section
-# educaton_title: Education
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
 
-# More Section
-more_title: Publications
-more_content: | # this will include new lines to allow paragraphs
-  **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs.**   
-  <u>Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan,   
-  *International Conference on Runtime Verification (RV), 2019*.    
-  [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
+# Comments
+disqus_shortname: al-folio # put your disqus shortname
 
-# Footer
-footer_show_references: false
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
 # Build settings
-remote_theme: sproogen/resume-theme
+markdown: kramdown
+highlighter: pygments
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
 
+# Plug-ins
 plugins:
- - jekyll-seo-tag
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Einstein
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
