@@ -4,7 +4,7 @@
   name: Semantic Anomaly Detection through Property Templates
   link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+  # quote: >
 # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     We investigate the problem of detecting anomalous behaviors of deployed autonomous vehicles that are not consistent with "typical" or "baseline" behaviors.
