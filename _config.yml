@@ -1,0 +1,70 @@
+# Site
+repository: hansolyoon/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Hansol Yoon
+title: PhD student, University of Colorado Boulder
+email: hansol.yoon at colorado dot edu
+# website: www.github.com/sproogen/resume-theme
+
+# Social links
+# twitter_username: facespics
+github_username: hansolyoon
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: hansol-yoon
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+# I graduated with a MS degree from the University of Colorado Boulder in 2019 and received a BS from Korea Air Force Academy in 2010. 
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder.
+  Also, I am a Republic of Korea Air Force Major, and I worked at the Avionics Software Development Center in the Korean Air Force before coming to the US.
+  
+  My research focuses on runtime verification with applications in autonomous systems.
+  
+  [[CV]](files/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
+  
+  **<u>Education</u>**
+  
+  MS, Computer Science, University of Colorado Boulder, 2019
+
+  BS, Computer Science, Republic of Korea Air Force Academy, 2010
+
+  
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Publications
+more_content: | # this will include new lines to allow paragraphs
+  **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs.**   
+  <u>Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan,   
+  *International Conference on Runtime Verification (RV), 2019*.    
+  [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
