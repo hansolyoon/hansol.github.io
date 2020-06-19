@@ -1,10 +1,15 @@
 
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: top-left #top-middle
+  name: Semantic Anomaly Detection through Property Templates
+  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+# Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    We investigate the problem of detecting anomalous behaviors of deployed autonomous vehicles that are not consistent with ``typical'' or ``baseline'' behaviors.
+    Detecting anomalies requires us to process large volumes of high dimensional data from on-board sensors including GPS, camera, LiDAR and RADAR. 
+    In this project, we propose a simple methodology of runtime monitoring through ``property templates'' that allow us to detect meaningful
+    anomalies of interest to stakeholders, while at the same time 
+    reducing from a very high dimensional space to a lower dimensional space through the property templates. Next, we use Pareto frontiers to define 
+    anomalous instances in the data with respect to the property.
