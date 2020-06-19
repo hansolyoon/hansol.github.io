@@ -19,7 +19,7 @@ social: true
   
   My research focuses on runtime verification with applications in autonomous systems.
   
-  [[CV]](files/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
+  [[CV]](assets/pdf/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ)
   
   **<u>Education</u>**
   
