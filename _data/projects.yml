@@ -1,8 +1,8 @@
 
 # Project template
-- layout: top-middle
+- layout: left
   name: Semantic Anomaly Detection through Property Templates
-  link: [Go to project page](https://www.notion.so/40068686/Project-bda27e35480d41cc9a138f2ca00e59c4) #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
 # Short overview of the project (optional)
@@ -13,3 +13,5 @@
     anomalies of interest to stakeholders, while at the same time 
     reducing from a very high dimensional space to a lower dimensional space through the property templates. Next, we use Pareto frontiers to define 
     anomalous instances in the data with respect to the property.
+
+    Check out videos: [Project page](https://www.notion.so/40068686/Project-bda27e35480d41cc9a138f2ca00e59c4)
