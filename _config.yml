@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   
 # Projects Section
-projects_title: Projects
+# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
@@ -51,10 +51,15 @@ projects_title: Projects
 # More Section
 more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs.**   
+  **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs**   
   <u>Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan,   
-  *International Conference on Runtime Verification (RV), 2019*.    
+  *International Conference on Runtime Verification (RV), 2019*
   [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
+
+  **Predictive Runtime Monitoring of Vehicle Models Using Bayesian Estimation and Reachability Analysis**   
+  Yi Chou, <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,   
+  *International Conference on Intelligent Robots and Systems (IROS), 2020*
+  [[pdf]](papers/predictive-iros-2020.pdf) [[presentation]](papers/IROS2020_presentation.mp4) [[demo]](http://youtu.be/aXbqg_iHGNg)
 
 # Footer
 footer_show_references: false
