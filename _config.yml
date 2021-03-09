@@ -26,8 +26,7 @@ linkedin_username: hansol-yoon
 # Also, I am a Republic of Korea Air Force Major, and 
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder.
-  My research focuses on predictive runtime verification with applications in autonomous systems. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
+  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder. My research focuses on predictive runtime verification with applications in autonomous systems. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
   
   [[CV]](files/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
   
