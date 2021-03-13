@@ -4,7 +4,7 @@ repository: hansolyoon/modern-resume-theme
 
 # Personal info
 name: Hansol Yoon
-title: PhD student, University of Colorado Boulder
+title: Ph.D. student, University of Colorado Boulder
 email: hansol.yoon at colorado dot edu
 # website: www.github.com/sproogen/resume-theme
 
@@ -26,15 +26,16 @@ linkedin_username: hansol-yoon
 # Also, I am a Republic of Korea Air Force Major, and 
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder. My research focuses on predictive runtime verification with applications in autonomous systems. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
+  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder. 
+  My research interests focuses on safety verification of autonomous systems using predictive runtime monitoring. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
   
-  [[CV]](files/CV.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
+  [[CV]](files/hansolyoon_cv.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
   
   **<u>Education</u>**
   
-  MS, Computer Science, University of Colorado Boulder, 2019
-
-  BS, Computer Science, Republic of Korea Air Force Academy, 2010
+  Ph.D. in Computer Science, University of Colorado Boulder, 2019-Present
+  M.S. in Computer Science, University of Colorado Boulder, 2017-2019
+  B.S. in Computer Science, Republic of Korea Air Force Academy, 2006-2010
 
   
 # Projects Section
@@ -49,17 +50,17 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  **Predictive Runtime Monitoring for Mobile Robots using Logic-Based Bayesian Intent Inference**   
+  **[ICRA'21] Predictive Runtime Monitoring for Mobile Robots using Logic-Based Bayesian Intent Inference**   
   <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,
   *International Conference on Robotics and Automation (ICRA), 2021*
 
-  **Predictive Runtime Monitoring of Vehicle Models Using Bayesian Estimation and Reachability Analysis**   
+  **[IROS'20] Predictive Runtime Monitoring of Vehicle Models Using Bayesian Estimation and Reachability Analysis**   
   Yi Chou, <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,   
   *International Conference on Intelligent Robots and Systems (IROS), 2020*
   [[pdf]](papers/predictive-iros-2020.pdf) [[presentation]](papers/IROS2020_presentation.mp4) [[demo]](http://youtu.be/aXbqg_iHGNg)
 
 
-  **Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs**   
+  **[RV'19] Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs**   
   <u>Hansol Yoon</u>, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan,   
   *International Conference on Runtime Verification (RV), 2019*
   [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
