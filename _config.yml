@@ -27,15 +27,15 @@ linkedin_username: hansol-yoon
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder. 
-  My research interests focuses on safety verification of autonomous systems using predictive runtime monitoring. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
+  My research focuses on safety verification of autonomous systems using predictive runtime monitoring. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
   
   [[CV]](files/hansolyoon_cv.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
   
   **<u>Education</u>**
   
-  Ph.D. in Computer Science, University of Colorado Boulder, 2019-Present
-  M.S. in Computer Science, University of Colorado Boulder, 2017-2019
-  B.S. in Computer Science, Republic of Korea Air Force Academy, 2006-2010
+  Ph.D. in Computer Science, University of Colorado Boulder, 2019-Present \\
+  M.S. in Computer Science, University of Colorado Boulder, 2017-2019 \\
+  B.S. in Computer Science, Republic of Korea Air Force Academy, 2006-2010 \\
 
   
 # Projects Section
