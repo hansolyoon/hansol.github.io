@@ -53,11 +53,12 @@ more_content: | # this will include new lines to allow paragraphs
   **[ICRA'21] Predictive Runtime Monitoring for Mobile Robots using Logic-Based Bayesian Intent Inference**   
   <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,
   *International Conference on Robotics and Automation (ICRA), 2021*
+  [[pdf]](papers/intent-inference-ICRA-2021.pdf) [[demo]](https://youtu.be/goPSbfGXDCU) [[presentation]](papers/ICRA2021_presentation.mp4) 
 
   **[IROS'20] Predictive Runtime Monitoring of Vehicle Models Using Bayesian Estimation and Reachability Analysis**   
   Yi Chou, <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,   
   *International Conference on Intelligent Robots and Systems (IROS), 2020*
-  [[pdf]](papers/predictive-iros-2020.pdf) [[presentation]](papers/IROS2020_presentation.mp4) [[demo]](http://youtu.be/aXbqg_iHGNg)
+  [[pdf]](papers/predictive-iros-2020.pdf) [[demo]](https://youtu.be/aXbqg_iHGNg) [[presentation]](papers/IROS2020_presentation.mp4) 
 
 
   **[RV'19] Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs**   
