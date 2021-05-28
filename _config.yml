@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
   **[ICRA'21] Predictive Runtime Monitoring for Mobile Robots using Logic-Based Bayesian Intent Inference**   
-  <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,
+  <u>Hansol Yoon</u>, and Sriram Sankaranarayanan,   
   *International Conference on Robotics and Automation (ICRA), 2021*
   [[pdf]](papers/intent-inference-ICRA-2021.pdf) [[demo]](https://youtu.be/goPSbfGXDCU) [[presentation]](papers/ICRA2021_presentation.mp4) 
 
