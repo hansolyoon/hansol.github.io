@@ -4,7 +4,7 @@ repository: hansolyoon/modern-resume-theme
 
 # Personal info
 name: Hansol Yoon
-title: Ph.D. student, University of Colorado Boulder
+# title: Ph.D. student, University of Colorado Boulder
 email: hansol.yoon at colorado dot edu
 # website: www.github.com/sproogen/resume-theme
 
@@ -26,14 +26,14 @@ linkedin_username: hansol-yoon
 # Also, I am a Republic of Korea Air Force Major, and 
 about_profile_image: images/Picture.png
 about_content: | # this will include new lines to allow paragraphs
-  I am Hansol Yoon, a PhD student in Professor [Sriram Sankaranarayanan's](https://www.cs.colorado.edu/~srirams/) group and the Computer Science department at the University of Colorado Boulder. 
-  My research focuses on safety verification of autonomous systems using predictive runtime monitoring. Before coming to the US, I worked at the Avionics Software Development Center in the Korean Air Force.
+  I graduated with a PhD in Computer Science from the University of Colorado Boulder, where I was advised by Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/)  
+  My research focuses on safety verification of autonomous systems using predictive runtime monitoring. 
   
   [[CV]](files/hansolyoon_cv.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
   
   **<u>Education</u>**
   
-  Ph.D. in Computer Science, University of Colorado Boulder, 2019-Present \\
+  Ph.D. in Computer Science, University of Colorado Boulder, 2019-2022 \\
   M.S. in Computer Science, University of Colorado Boulder, 2017-2019 \\
   B.S. in Computer Science, Republic of Korea Air Force Academy, 2006-2010
 
