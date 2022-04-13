@@ -67,6 +67,8 @@ more_content: | # this will include new lines to allow paragraphs
   [[pdf]](papers/uav-geofence-rv-2019-yoon-etal.pdf)
 
 
+future: true
+ 
 # Footer
 footer_show_references: false
 
