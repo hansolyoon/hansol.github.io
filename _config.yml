@@ -26,8 +26,7 @@ linkedin_username: hansol-yoon
 # Also, I am a Republic of Korea Air Force Major, and 
 about_profile_image: images/Picture.png
 about_content: | # this will include new lines to allow paragraphs
-  I graduated with a PhD in Computer Science from the University of Colorado Boulder, where I was advised by Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/)  
-  My research focuses on safety verification of autonomous systems using predictive runtime monitoring. 
+  I graduated with a PhD in Computer Science from the University of Colorado Boulder, where I was advised by Professor [Sriram Sankaranarayanan](https://www.cs.colorado.edu/~srirams/). My research focuses on safety verification of autonomous systems using predictive runtime monitoring. 
   
   [[CV]](files/hansolyoon_cv.pdf), [[Google scholar]](https://scholar.google.com/citations?user=ANpYU9oAAAAJ&hl=en)
   
@@ -68,7 +67,7 @@ more_content: | # this will include new lines to allow paragraphs
 
 
 future: true
- 
+
 # Footer
 footer_show_references: false
 
